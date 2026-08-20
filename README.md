@@ -42,8 +42,8 @@ Proyek ini adalah eksplorasi dan implementasi **image generation** menggunakan m
 
 ```
 .
-├── Pipeline_submission_BFGAI_Muhammad_Alif_Dhiyaumasrur.ipynb   # Notebook eksperimen (text2img, img2img, inpainting, outpainting)
-├── Streamlit_submission_BFGAI_Muhammad_Alif_Dhiyaumasrur.ipynb  # Notebook yang generate app.py & logic.py, lalu deploy via Ngrok
+├── stable_diffusion_pipeline.ipynb   # Notebook eksperimen (text2img, img2img, inpainting, outpainting)
+├── studioai_streamlit_deploy.ipynb  # Notebook yang generate app.py & logic.py, lalu deploy via Ngrok
 ├── requirements.txt
 └── README.md
 ```
