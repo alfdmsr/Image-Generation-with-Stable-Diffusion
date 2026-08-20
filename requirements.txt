@@ -1,0 +1,9 @@
+torch
+diffusers
+transformers
+accelerate
+streamlit
+streamlit-drawable-canvas==0.8.0
+pyngrok
+Pillow
+numpy
